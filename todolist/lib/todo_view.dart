@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:todolist/car_entity.dart';
-import 'package:todolist/elevated_button_custom.dart';
-import 'package:todolist/textfield_custom.dart';
+import 'package:todolist/widgets/elevated_button_custom.dart';
+import 'package:todolist/widgets/textfield_custom.dart';
 
 class TodoView extends StatefulWidget {
   const TodoView({super.key});
